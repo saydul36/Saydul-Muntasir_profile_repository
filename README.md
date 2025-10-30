@@ -17,6 +17,8 @@
 </p>
 
 ---
+## 🎮 Interactive GitHub Games & Animations
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🎯+Level+99+Developer;💻+Code+Wizard+%26+Problem+Solver;🚀+Building+The+Future+One+Line+at+a+Time;⚡+Always+Learning+%26+Growing;🌟+Turning+Ideas+Into+Reality" alt="Coding Animation" />
@@ -54,17 +56,8 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saydul36&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saydul36&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saydul36&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-## 🎮 Interactive GitHub Games & Animations
-
-<!-- Advanced Typing Animations -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🎯+Level+99+Developer;💻+Code+Wizard+%26+Problem+Solver;🚀+Building+The+Future+One+Line+at+a+Time;⚡+Always+Learning+%26+Growing;🌟+Turning+Ideas+Into+Reality" alt="Coding Animation" />
-</p>
 
 ---
 
