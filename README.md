@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **Laravel, Codeigniter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/githubramim?tab=repositories](https://github.com/githubramim?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/saydul36?tab=repositories](https://github.com/saydul36?tab=repositories)
 
 - 💬 Ask me about **HTML | CSS | JS | PHP | Laravel | Codeigniter**
 
