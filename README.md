@@ -12,7 +12,7 @@
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saydul36&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saydul36x?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/saydul36?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/saydul36?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
@@ -100,6 +100,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=saydul36&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 
 
